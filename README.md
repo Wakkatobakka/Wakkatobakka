@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Wakka 👋
 
-<!--
-**Wakkatobakka/Wakkatobakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bridge dev / professional maker-of-weird-shit
 
-Here are some ideas to get you started:
+I like taking software that was never supposed to run somewhere and figuring out how to get it there anyway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now that mostly means **bridging old mobile games onto modern Android** — rebuilding the environment around them rather than pretending the phone is the original hardware.
+
+That's how things like **Dirge Bridge**, **DeadShot Bridge**, and **FFVII Snowboarding Bridge** happened.
+
+I also make tools for the way I work, including **Android Build Capsule** and **Passport**.
+
+I didn't really come here because I wanted to learn how to code.
+
+I came here because I kept asking:
+
+**"Okay, but why *can't* we make it work?"**
+
+Turns out that's a pretty productive question.
+
+**EL. PSY. BUILDROO. 🤘**
