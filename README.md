@@ -2,7 +2,7 @@
 
 ### Bridge dev / professional maker-of-weird-shit
 
-I like taking software that was never supposed to run somewhere and figuring out how to get it there anyway.
+I like taking software that was considered dead or obselete and figuring out how to get it to run anyway.
 
 Right now that mostly means **bridging old mobile games onto modern Android** — rebuilding the environment around them rather than pretending the phone is the original hardware.
 
