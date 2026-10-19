@@ -2,6 +2,8 @@
 
 ### Bridge dev / professional maker-of-weird-shit
 
+[UPDATE- 10/19/26 I'm in the middle of a big overhaul of my page. I may get this done quick, or limp it along for a week, depends on how busy rl gets. So thing will be changing and moving around a tad. should make things easier to navigate, download, and just play] 
+
 I like taking software that was considered dead or obselete and figuring out how to get it to run anyway.
 
 Right now that mostly means **bridging old mobile games onto modern Android** — rebuilding the environment around them rather than pretending the phone is the original hardware.
