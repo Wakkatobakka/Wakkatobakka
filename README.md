@@ -2,22 +2,53 @@
 
 ### Bridge dev / professional maker-of-weird-shit
 
-[UPDATE- 10/19/26 I'm in the middle of a big overhaul of my page. I may get this done quick, or limp it along for a week, depends on how busy rl gets. So thing will be changing and moving around a tad. should make things easier to navigate, download, and just play] 
+I like taking software that was considered dead or obsolete and figuring out how to get it running anyway. Mostly old phone games on modern Android.
 
-I like taking software that was considered dead or obselete and figuring out how to get it to run anyway.
+I work with AI through directing, testing, and iterating. This all gets squeezed around my job and family. I just think old things are neat 😅
 
-Right now that mostly means **bridging old mobile games onto modern Android** — rebuilding the environment around them rather than pretending the phone is the original hardware.
+## Start here: Omni Player
 
-That's how things like **Dirge Bridge**, **DeadShot Bridge**, and **FFVII Snowboarding Bridge** happened.
+**Your games, together.**
 
-I also make tools for the way I work, including **Android Build Capsule** and **Passport**.
+Omni Player brings supported old mobile games together in one Android app, using their individual compatibility bridges. You supply the original game files, tap **Load Game**, and launch them from your library.
 
-I didn't really come here because I wanted to learn how to code.
+The public catalog includes games across **BREW, DoJa, J2ME, ExEn, and Zeebo**, including BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and more.
 
-I came here because I kept asking:
+**[Download Omni Player](https://github.com/Wakkatobakka/Omni-Player/releases) · [Supported games](https://github.com/Wakkatobakka/Omni-Player/blob/main/SUPPORTED_GAMES.txt) · [Setup and project details](https://github.com/Wakkatobakka/Omni-Player)**
 
-**"Okay, but why *can't* we make it work?"**
+Requires **Android 11+ / ARM64**. Development continues on additional bridges, controls, and making future updates easier to put together and share.
 
-Turns out that's a pretty productive question.
+## Individual game bridges
+
+Dedicated Android apps for individual games. Each project has its own downloads and setup instructions.
+
+| Project | Game / platform |
+| --- | --- |
+| [Dirge Bridge](https://github.com/Wakkatobakka/Dirge-Bridge) | Final Fantasy VII: Dirge of Cerberus – Lost Episode · DoJa |
+| [DeadShot Bridge](https://github.com/Wakkatobakka/DeadShot-Bridge) | Devil May Cry: DeadShot · DoJa |
+| [FFVII Snowboarding Bridge](https://github.com/Wakkatobakka/FFVII-Snowboarding-Bridge) | Final Fantasy VII Snowboarding · DoJa |
+| [Rush Marine Bridge](https://github.com/Wakkatobakka/Rush-Marine-Bridge) | Mega Man: Rush Marine · BREW |
+
+## Tools
+
+Things that grew out of making the work easier to carry, build, and use.
+
+| Project | What it does |
+| --- | --- |
+| [Workbench Continuity](https://github.com/Wakkatobakka/workbench-continuity) | Keeps project files, build tools, decisions, and the next action together when moving between AI chats. |
+| [Android Build Capsule](https://github.com/Wakkatobakka/android-build-capsule) | Prepares Android build tools for AI chats with code execution. |
+| [Artifact Passport](https://github.com/Wakkatobakka/artifact-passport) | Carries a project's purpose, decisions, and working state into the next conversation. |
+| [Retro Mod Pod](https://github.com/Wakkatobakka/Retro-Mod-Pod) | Applies supported retro-game patches locally through a browser. Game in, patch in, KABOOMY. |
+
+## Further down the rabbit hole
+
+These are future plans:
+
+- **Qualcomm BREW archive catalog / mirror:** Organize the collection preserved on Internet Archive, with clearer game listings, developer descriptions, and edition details.
+- **Build your own bridge:** A repository with guidance and tools for investigating a specific game, developing and testing a compatible bridge, and adding it to your own private Omni Player. I want people to be able to pursue their own games without waiting on me. This workflow still needs to be implemented.
+
+I keep coming back to the same question:
+
+**“Okay, but why *can't* we make it work?”**
 
 **EL. PSY. BUILDROO. 🤘**
