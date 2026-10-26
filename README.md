@@ -14,7 +14,7 @@ Omni Player brings supported old mobile games together in one Android app, using
 
 The public catalog includes games across **BREW, DoJa, J2ME, ExEn, and Zeebo**, including BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and more.
 
-**[Download Omni Player](https://github.com/Wakkatobakka/Omni-Player/releases) · [Supported games](https://github.com/Wakkatobakka/Omni-Player/blob/main/SUPPORTED_GAMES.txt) · [Setup and project details](https://github.com/Wakkatobakka/Omni-Player)**
+**[Download Omni Player](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, files & sources](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md) · [Setup and project details](https://github.com/Wakkatobakka/Omni-Player) · [Website](https://wakkatobakka.github.io/#games)**
 
 Requires **Android 11+ / ARM64**. Development continues on additional bridges, controls, and making future updates easier to put together and share.
 
