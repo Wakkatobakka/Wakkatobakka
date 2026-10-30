@@ -22,17 +22,22 @@ The public catalog includes games across **BREW, DoJa, J2ME, ExEn, and Zeebo**, 
 
 Requires **Android 11+ / ARM64**. Development continues on additional bridges, controls, and making future updates easier to put together and share.
 
-## 📚 BREW / The Lost Catalog
+## 📚 BREW / ExEn / Zeebo / DoJa / OH MY!
 
-**The rabbit hole now has a card catalog.**
+**The rabbit hole now has card catalogs. Plural. This escalated.**
 
-A searchable catalog of **104 archived BREW software packages** from the [Qualcomm BREW Games collection preserved on Internet Archive](https://archive.org/details/qualcomm-brew-games).
+Four searchable archives built and maintained by me, exploring the surviving games, software, and wonderfully obscure corners of these platforms.
 
-Each package has its own page with filenames, file inventories, package size, and a SHA-256 fingerprint. Sourced historical notes add context where evidence is available, with research labels distinguishing documented history, related history, and archive evidence.
+| Archive | What's inside | Links |
+| --- | --- | --- |
+| **Qualcomm BREW** | **104 archived software packages**, including games, demos, utilities, and alternate builds. Individual package pages include file inventories, fingerprints, and historical notes labeled by their supporting evidence. | [Browse the archive](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Repository](https://github.com/Wakkatobakka/qualcomm-brew-archive) |
+| **ExEn** | **46 source-linked game listings** from a largely forgotten corner of mobile gaming, with individual title pages, research notes, and a trail back to the original listings. | [Browse the archive](https://wakkatobakka.github.io/exen-game-archive/) · [Repository](https://github.com/Wakkatobakka/exen-game-archive) |
+| **Zeebo** | **61 game/app IDs**, preserved package variants, developer tools, and reference material. Includes file fingerprints and summaries drawn from the original printed game guide. | [Browse the archive](https://wakkatobakka.github.io/zeebo-archive/) · [Repository](https://github.com/Wakkatobakka/zeebo-archive) |
+| **DoJa** | **2,067 title and application records** drawn from **2,149 source-listed entries**, preserving variant, trial, and translation labels. Naturally, Dirge of Cerberus: Lost Episode gets a featured spot. | [Browse the archive](https://wakkatobakka.github.io/doja-archive/) · [Repository](https://github.com/Wakkatobakka/doja-archive) |
 
-The catalog covers games, alternate builds, demos, and utilities. It provides metadata and links to the original archive; the game files remain with the source collection.
+Each archive includes source links, credits, and notes explaining what the surviving evidence establishes. Original game files remain with their source collections.
 
-**[Browse the live archive](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Project and catalog data](https://github.com/Wakkatobakka/qualcomm-brew-archive)**
+Apparently, “I wonder what happened to that game” is how you become a librarian.
 
 ## 🕹️ Individual game bridges
 
