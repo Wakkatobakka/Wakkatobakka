@@ -1,3 +1,5 @@
+![Wakkatobakka's preservation workbench: old hardware connected to modern Android and game worlds.](https://raw.githubusercontent.com/Wakkatobakka/wakkatobakka.github.io/main/wakkatobakka-banner.png)
+
 # Hey, I'm Wakka 👋
 
 ### Bridge dev / professional maker-of-weird-shit
@@ -6,7 +8,9 @@ I like taking software that was considered dead or obsolete and figuring out how
 
 I work with AI through directing, testing, and iterating. This all gets squeezed around my job and family. I just think old things are neat 😅
 
-## Start here: Omni Player
+**[Visit the workshop](https://wakkatobakka.github.io/) · [Play with Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Explore the BREW archive](https://wakkatobakka.github.io/qualcomm-brew-archive/)**
+
+## 🎮 Start here: Omni Player
 
 **Your games, together.**
 
@@ -18,9 +22,21 @@ The public catalog includes games across **BREW, DoJa, J2ME, ExEn, and Zeebo**, 
 
 Requires **Android 11+ / ARM64**. Development continues on additional bridges, controls, and making future updates easier to put together and share.
 
-## Individual game bridges
+## 📚 BREW / The Lost Catalog
 
-Dedicated Android apps for individual games. Each project has its own downloads and setup instructions.
+**The rabbit hole now has a card catalog.**
+
+A searchable catalog of **104 archived BREW software packages** from the [Qualcomm BREW Games collection preserved on Internet Archive](https://archive.org/details/qualcomm-brew-games).
+
+Each package has its own page with filenames, file inventories, package size, and a SHA-256 fingerprint. Sourced historical notes add context where evidence is available, with research labels distinguishing documented history, related history, and archive evidence.
+
+The catalog covers games, alternate builds, demos, and utilities. It provides metadata and links to the original archive; the game files remain with the source collection.
+
+**[Browse the live archive](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Project and catalog data](https://github.com/Wakkatobakka/qualcomm-brew-archive)**
+
+## 🕹️ Individual game bridges
+
+Dedicated Android apps for individual games, with their own downloads and setup instructions. All four are also included in Omni Player for a streamlined experience.
 
 | Project | Game / platform |
 | --- | --- |
@@ -29,7 +45,7 @@ Dedicated Android apps for individual games. Each project has its own downloads 
 | [FFVII Snowboarding Bridge](https://github.com/Wakkatobakka/FFVII-Snowboarding-Bridge) | Final Fantasy VII Snowboarding · DoJa |
 | [Rush Marine Bridge](https://github.com/Wakkatobakka/Rush-Marine-Bridge) | Mega Man: Rush Marine · BREW |
 
-## Tools
+## 🧰 The tool shed
 
 Things that grew out of making the work easier to carry, build, and use.
 
@@ -40,12 +56,13 @@ Things that grew out of making the work easier to carry, build, and use.
 | [Artifact Passport](https://github.com/Wakkatobakka/artifact-passport) | Carries a project's purpose, decisions, and working state into the next conversation. |
 | [Retro Mod Pod](https://github.com/Wakkatobakka/Retro-Mod-Pod) | Applies supported retro-game patches locally through a browser. Game in, patch in, KABOOMY. |
 
-## Further down the rabbit hole
+## 🐇 Further down the rabbit hole
 
-These are future plans:
+**Planned: Build your own bridge.**
 
-- **Qualcomm BREW archive catalog / mirror:** Organize the collection preserved on Internet Archive, with clearer game listings, developer descriptions, and edition details.
-- **Build your own bridge:** A repository with guidance and tools for investigating a specific game, developing and testing a compatible bridge, and adding it to your own private Omni Player. I want people to be able to pursue their own games without waiting on me. This workflow still needs to be implemented.
+Guidance and tools for investigating a specific game, developing and testing a compatible bridge, and adding it to your own private Omni Player. I want people to be able to pursue their own games without waiting on me.
+
+This workflow isn't available yet.
 
 I keep coming back to the same question:
 
