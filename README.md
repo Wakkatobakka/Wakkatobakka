@@ -8,40 +8,49 @@ I like taking software that was considered dead or obsolete and figuring out how
 
 I work with AI through directing, testing, and iterating. This all gets squeezed around my job and family. I just think old things are neat 😅
 
-**[Visit the workshop](https://wakkatobakka.github.io/) · [Play with Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Explore the BREW archive](https://wakkatobakka.github.io/qualcomm-brew-archive/)**
+**[Visit the workshop](https://wakkatobakka.github.io/) · [Play with Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [See how it broke](https://wakkatobakka.github.io/bridges-before-you-played-them/)**
 
 ## 🎮 Start here: Omni Player
 
 **Your games, together.**
 
-Omni Player brings supported old mobile games together in one Android app, using their individual compatibility bridges. You supply the original game files, tap **Load Game**, and launch them from your library.
+I got tired of juggling separate bridges. Omni brings supported old mobile games together in one Android app. Supply the original game files, tap **Load Game**, and launch them from your library.
 
-The public catalog includes games across **BREW, DoJa, J2ME, ExEn, and Zeebo**, including BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and more.
+The public games span **BREW, DoJa, J2ME, ExEn, and Zeebo**: BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and a growing pile of others.
 
-**[Download Omni Player](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, files & sources](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md) · [Setup and project details](https://github.com/Wakkatobakka/Omni-Player) · [Website](https://wakkatobakka.github.io/#games)**
+**[Download Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, files & sources](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md) · [Setup & project details](https://github.com/Wakkatobakka/Omni-Player)**
 
-Requires **Android 11+ / ARM64**. Development continues on additional bridges, controls, and making future updates easier to put together and share.
+**Android 11+ / ARM64.** Public builds are betas; the game guide and release notes carry the current lineup and known issues.
 
-## 📚 BREW / ExEn / Zeebo / DoJa / OH MY!
+## 🛠️ Bridges Before You Played Them
+
+Cloud upside down. Ghost Gun Leon. Ashen fighting the clock. Getting a game to run produces some very strange intermediate results.
+
+I went back through the work and put together **52 histories from my private bridge work**, with screenshots, development receipts, and the fixes that carried from one game into another. This is the story behind the pile; the public playable lineup lives with Omni.
+
+**[Read the histories](https://wakkatobakka.github.io/bridges-before-you-played-them/) · [Archive repository](https://github.com/Wakkatobakka/bridges-before-you-played-them)**
+
+## 📚 BREW / ExEn / Zeebo / DoJa / J2ME / OH MY!
 
 **The rabbit hole now has card catalogs. Plural. This escalated.**
 
-Four searchable archives built and maintained by me, exploring the surviving games, software, and wonderfully obscure corners of these platforms.
+These grew out of the places I used and the things I found while hunting for games. Five searchable catalogues, with source links and credits so the next person has a trail to follow.
 
-| Archive | What's inside | Links |
-| --- | --- | --- |
-| **Qualcomm BREW** | **104 archived software packages**, including games, demos, utilities, and alternate builds. Individual package pages include file inventories, fingerprints, and historical notes labeled by their supporting evidence. | [Browse the archive](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Repository](https://github.com/Wakkatobakka/qualcomm-brew-archive) |
-| **ExEn** | **46 source-linked game listings** from a largely forgotten corner of mobile gaming, with individual title pages, research notes, and a trail back to the original listings. | [Browse the archive](https://wakkatobakka.github.io/exen-game-archive/) · [Repository](https://github.com/Wakkatobakka/exen-game-archive) |
-| **Zeebo** | **61 game/app IDs**, preserved package variants, developer tools, and reference material. Includes file fingerprints and summaries drawn from the original printed game guide. | [Browse the archive](https://wakkatobakka.github.io/zeebo-archive/) · [Repository](https://github.com/Wakkatobakka/zeebo-archive) |
-| **DoJa** | **2,067 title and application records** drawn from **2,149 source-listed entries**, preserving variant, trial, and translation labels. Naturally, Dirge of Cerberus: Lost Episode gets a featured spot. | [Browse the archive](https://wakkatobakka.github.io/doja-archive/) · [Repository](https://github.com/Wakkatobakka/doja-archive) |
+| Catalogue | Down this rabbit hole |
+| --- | --- |
+| [Qualcomm BREW](https://wakkatobakka.github.io/qualcomm-brew-archive/) | Games, demos, utilities, alternate builds, and the packages that survived. |
+| [DoJa](https://wakkatobakka.github.io/doja-archive/) | i-mode titles, trials, translations, and a lot more than the handful I went looking for. |
+| [ExEn](https://wakkatobakka.github.io/exen-game-archive/) | Source-linked listings from a largely forgotten corner of mobile gaming. |
+| [Zeebo](https://wakkatobakka.github.io/zeebo-archive/) | Games, package variants, developer tools, and the printed guide's paper trail. |
+| [J2ME](https://wakkatobakka.github.io/j2me-archive/) | Handsets, editions, languages, and the enormous world hiding behind the .jar. |
 
-Each archive includes source links, credits, and notes explaining what the surviving evidence establishes. Original game files remain with their source collections.
+The catalogues reach well beyond Omni's supported games. Original files stay with their source collections; each catalogue keeps its sources and evidence notes close by.
 
 Apparently, “I wonder what happened to that game” is how you become a librarian.
 
-## 🕹️ Individual game bridges
+## 🕹️ The individual bridges
 
-Dedicated Android apps for individual games, with their own downloads and setup instructions. All four are also included in Omni Player for a streamlined experience.
+Four standalone Android apps from the work that led into Omni. All four are also in the player; their own projects still have downloads and setup instructions.
 
 | Project | Game / platform |
 | --- | --- |
@@ -52,24 +61,26 @@ Dedicated Android apps for individual games, with their own downloads and setup 
 
 ## 🧰 The tool shed
 
-Things that grew out of making the work easier to carry, build, and use.
+Things I ended up making so I could keep making the other things.
 
 | Project | What it does |
 | --- | --- |
-| [Workbench Continuity](https://github.com/Wakkatobakka/workbench-continuity) | Keeps project files, build tools, decisions, and the next action together when moving between AI chats. |
-| [Android Build Capsule](https://github.com/Wakkatobakka/android-build-capsule) | Prepares Android build tools for AI chats with code execution. |
+| [Workbench Continuity](https://github.com/Wakkatobakka/workbench-continuity) | Keeps project files, build tools, decisions, and the next action together between AI chats. |
+| [Android Build Capsule](https://github.com/Wakkatobakka/android-build-capsule) | Prepares Android build tools for AI chats with code execution. Give chat hands. |
 | [Artifact Passport](https://github.com/Wakkatobakka/artifact-passport) | Carries a project's purpose, decisions, and working state into the next conversation. |
-| [Retro Mod Pod](https://github.com/Wakkatobakka/Retro-Mod-Pod) | Applies supported retro-game patches locally through a browser. Game in, patch in, KABOOMY. |
+| [Retro Mod Pod](https://github.com/Wakkatobakka/Retro-Mod-Pod) | Applies supported retro-game patches locally in a browser. Game in, patch in, KABOOMY. |
+
+## 📖 RIPPLE / The Living Archive
+
+[![RIPPLE — The Living Archive.](https://raw.githubusercontent.com/Wakkatobakka/ripple/main/assets/images/readme-header.svg)](https://wakkatobakka.github.io/ripple/)
+
+This started with me asking AI for Mass Effect-style codex entries to listen to while mowing. It became a fictional universe of incident reports, correspondence, cosmic horror, weird humor, and occasional kindness. Then I had to go recover it from my own scattered chats and files. Another rabbit hole 😅
+
+**[Read the five public records](https://wakkatobakka.github.io/ripple/) · [Project & origins](https://github.com/Wakkatobakka/ripple)**
 
 ## 🐇 Further down the rabbit hole
 
-**Planned: Build your own bridge.**
-
-Guidance and tools for investigating a specific game, developing and testing a compatible bridge, and adding it to your own private Omni Player. I want people to be able to pursue their own games without waiting on me.
-
-This workflow isn't available yet.
-
-I keep coming back to the same question:
+**Planned: Build your own bridge.** Guidance and tools for investigating a game and adding a tested bridge to your own private Omni. I want people to pursue their own games without waiting on me. This workflow isn't available yet.
 
 **“Okay, but why *can't* we make it work?”**
 
