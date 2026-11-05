@@ -16,7 +16,7 @@ I work with AI through directing, testing, and iterating. This all gets squeezed
 
 I got tired of juggling separate bridges. Omni brings supported old mobile games together in one Android app. Supply the original game files, tap **Load Game**, and launch them from your library.
 
-The public games span **BREW, DoJa, J2ME, ExEn, and Zeebo**: BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and a growing pile of others.
+The public games span **BREW, DoJa, J2ME, ExEn, Zeebo, and N-Gage (classic and 2.0)**: BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and a growing pile of others.
 
 **[Download Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, files & sources](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md) · [Setup & project details](https://github.com/Wakkatobakka/Omni-Player)**
 
@@ -30,11 +30,11 @@ I went back through the work and put together **52 histories from my private bri
 
 **[Read the histories](https://wakkatobakka.github.io/bridges-before-you-played-them/) · [Archive repository](https://github.com/Wakkatobakka/bridges-before-you-played-them)**
 
-## 📚 BREW / ExEn / Zeebo / DoJa / J2ME / OH MY!
+## 📚 BREW / ExEn / Zeebo / DoJa / J2ME / N-Gage / OH MY!
 
 **The rabbit hole now has card catalogs. Plural. This escalated.**
 
-These grew out of the places I used and the things I found while hunting for games. Five searchable catalogues, with source links and credits so the next person has a trail to follow.
+These grew out of the places I used and the things I found while hunting for games. Six searchable catalogues, with source links and credits so the next person has a trail to follow.
 
 | Catalogue | Down this rabbit hole |
 | --- | --- |
@@ -43,6 +43,7 @@ These grew out of the places I used and the things I found while hunting for gam
 | [ExEn](https://wakkatobakka.github.io/exen-game-archive/) | Source-linked listings from a largely forgotten corner of mobile gaming. |
 | [Zeebo](https://wakkatobakka.github.io/zeebo-archive/) | Games, package variants, developer tools, and the printed guide's paper trail. |
 | [J2ME](https://wakkatobakka.github.io/j2me-archive/) | Handsets, editions, languages, and the enormous world hiding behind the .jar. |
+| [N-Gage](https://wakkatobakka.github.io/ngage-archive/) | Classic N-Gage and N-Gage 2.0: games, alternate editions, development builds, and the material packed in beside them. |
 
 The catalogues reach well beyond Omni's supported games. Original files stay with their source collections; each catalogue keeps its sources and evidence notes close by.
 
