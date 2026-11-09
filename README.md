@@ -8,9 +8,9 @@ I like taking software that was considered dead or obsolete and figuring out how
 
 I work with AI through directing, testing, and iterating. This all gets squeezed around my job and family. I just think old things are neat 😅
 
-**[Visit the workshop](https://wakkatobakka.github.io/) · [Play with Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [See how it broke](https://wakkatobakka.github.io/bridges-before-you-played-them/)**
+**[Visit the workshop](https://wakkatobakka.github.io/) · [Play with Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Play with Apple Bridge](https://github.com/Wakkatobakka/Apple-Bridge/releases) · [See how it broke](https://wakkatobakka.github.io/bridges-before-you-played-them/)**
 
-## 🎮 Start here: Omni Player
+## 🎮 Omni Player
 
 **Your games, together.**
 
@@ -21,6 +21,18 @@ The public games span **BREW, DoJa, J2ME, ExEn, Zeebo, and N-Gage (classic and 2
 **[Download Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, files & sources](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md) · [Setup & project details](https://github.com/Wakkatobakka/Omni-Player)**
 
 **Android 11+ / ARM64.** Public builds are betas; the game guide and release notes carry the current lineup and known issues.
+
+## 📱 Apple Bridge
+
+**Old iPhone games. Back in your hands.**
+
+The early iPhone rabbit hole got its own player. Apple Bridge brings **10 games together on Android**, including Mass Effect Galaxy, Dead Space, Chaos Rings, and Devil May Cry 4: Refrain.
+
+The games keep their original interfaces, touchscreen controls, and tilt inputs where they use them. Supply a matching original `.ipa`, import it, and play from your library. The compatibility bridges are included.
+
+**[Download Apple Bridge](https://github.com/Wakkatobakka/Apple-Bridge/releases) · [Games, original files & playing notes](https://github.com/Wakkatobakka/Apple-Bridge/blob/main/GAME_GUIDE.md) · [Setup & project details](https://github.com/Wakkatobakka/Apple-Bridge)**
+
+**Android 11+ / ARM64.** Each game is personally playtested through its tutorial and into the first level, often further. Full start-to-finish completion has not been verified for every title.
 
 ## 🛠️ Bridges Before You Played Them
 
