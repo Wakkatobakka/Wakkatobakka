@@ -26,7 +26,7 @@ The public games span **BREW, DoJa, J2ME, ExEn, Zeebo, and N-Gage (classic and 2
 
 **Old iPhone games. Back in your hands.**
 
-The early iPhone rabbit hole got its own player. Apple Bridge brings **10 games together on Android**, including Mass Effect Galaxy, Dead Space, Chaos Rings, and Devil May Cry 4: Refrain.
+The early iPhone rabbit hole got its own player. Apple Bridge brings **21 games together on Android in v0.0.8**, including GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Spider-Man: Total Mayhem, Dead Space, and Mass Effect Galaxy.
 
 The games keep their original interfaces, touchscreen controls, and tilt inputs where they use them. Supply a matching original `.ipa`, import it, and play from your library. The compatibility bridges are included.
 
