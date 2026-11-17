@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 324" width="900" height="324" role="img" aria-label="Wakkatobakka&#x27;s workbench: a flickering nixie-tube divergence meter, stats for Omni, Apple Bridge, the catalogs and the histories, and an old phone wired to a modern Android">
+<title>Wakkatobakka&#x27;s workbench: a flickering nixie-tube divergence meter, stats for Omni, Apple Bridge, the catalogs and the histories, and an old phone wired to a modern Android</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.pulse{animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.dg{animation:flick 3s linear infinite}
+@keyframes flick{0%,90%,100%{opacity:1}92%{opacity:.2}94%{opacity:1}96%{opacity:.45}97%{opacity:1}}
+.flow{animation:flow 1s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-14}}
+.mq{animation:mq 12s linear infinite}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-240px)}}
+</style>
+<defs>
+<filter id="gl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".03"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="322" rx="16" fill="#0c1219" stroke="#223140" stroke-width="2"/>
+<rect x="1" y="1" width="898" height="322" rx="16" fill="url(#sc)"/>
+<text x="40" y="46" font-size="12" fill="#7f93a8">workbench / old hardware in, modern Android out</text>
+<circle cx="860" cy="42" r="5" fill="#ff5468" class="pulse"/><text x="848" y="46" font-size="12" fill="#7f93a8" text-anchor="end">rec</text>
+<text x="40" y="100" font-size="54" font-weight="700" fill="#e6eef6">Wakkatobakka</text>
+<text x="40" y="128" font-size="15" fill="#ffa23d">Bridge dev / professional maker-of-weird-shit</text>
+<text x="40" y="164" font-size="11" fill="#7f93a8">divergence meter, world line 1.048596</text>
+<rect x="40" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="66" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:3.10s;animation-delay:0.00s" x="66" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">1</text>
+<rect x="100" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="126" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:3.57s;animation-delay:0.31s" x="126" y="236" font-size="64" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">.</text>
+<rect x="160" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="186" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:4.04s;animation-delay:0.62s" x="186" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">0</text>
+<rect x="220" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="246" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:4.51s;animation-delay:0.93s" x="246" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">4</text>
+<rect x="280" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="306" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:4.98s;animation-delay:1.24s" x="306" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">8</text>
+<rect x="340" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="366" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:5.45s;animation-delay:1.55s" x="366" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">5</text>
+<rect x="400" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="426" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:5.92s;animation-delay:1.86s" x="426" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">9</text>
+<rect x="460" y="172" width="52" height="82" rx="12" fill="#120b05" stroke="#4a2c14" stroke-width="2"/>
+<ellipse cx="486" cy="186" rx="18" ry="6" fill="#fff" opacity=".05"/>
+<text class="dg" style="animation-duration:6.39s;animation-delay:2.17s" x="486" y="232" font-size="58" font-weight="700" text-anchor="middle" fill="#ffa23d" filter="url(#gl)">6</text>
+<rect x="556" y="56" width="148" height="54" rx="10" fill="#101a24" stroke="#223140" stroke-width="2"/>
+<text x="570" y="88" font-size="28" font-weight="700" fill="#ffa23d">57</text>
+<text x="570" y="103" font-size="11" fill="#7f93a8">Omni games</text>
+<rect x="716" y="56" width="148" height="54" rx="10" fill="#101a24" stroke="#223140" stroke-width="2"/>
+<text x="730" y="88" font-size="28" font-weight="700" fill="#ffa23d">21</text>
+<text x="730" y="103" font-size="11" fill="#7f93a8">Apple Bridge games</text>
+<rect x="556" y="118" width="148" height="54" rx="10" fill="#101a24" stroke="#223140" stroke-width="2"/>
+<text x="570" y="150" font-size="28" font-weight="700" fill="#ffa23d">6</text>
+<text x="570" y="165" font-size="11" fill="#7f93a8">card catalogs</text>
+<rect x="716" y="118" width="148" height="54" rx="10" fill="#101a24" stroke="#223140" stroke-width="2"/>
+<text x="730" y="150" font-size="28" font-weight="700" fill="#ffa23d">52</text>
+<text x="730" y="165" font-size="11" fill="#7f93a8">bridge histories</text>
+<g transform="translate(572,188)"><rect width="34" height="26" rx="3" fill="#2b3a4a"/><rect x="4" y="4" width="26" height="14" fill="#43e68a" opacity=".55"/>
+<rect y="30" width="34" height="30" rx="3" fill="#33465a"/><g fill="#0c1219"><rect x="5" y="35" width="6" height="5"/><rect x="14" y="35" width="6" height="5"/><rect x="23" y="35" width="6" height="5"/><rect x="5" y="44" width="6" height="5"/><rect x="14" y="44" width="6" height="5"/><rect x="23" y="44" width="6" height="5"/></g></g>
+<line class="flow" x1="624" y1="220" x2="770" y2="220" stroke="#4fd8f0" stroke-width="3" stroke-dasharray="7 7"/>
+<polygon points="770,212 786,220 770,228" fill="#4fd8f0"/>
+<g transform="translate(806,186)"><rect width="42" height="68" rx="9" fill="#17222d" stroke="#4fd8f0" stroke-width="2"/><rect x="5" y="8" width="32" height="48" rx="3" fill="#4fd8f0" opacity=".18"/><circle class="pulse" cx="21" cy="32" r="8" fill="#4fd8f0" filter="url(#gl)"/></g>
+<text x="589" y="270" font-size="10" fill="#7f93a8" text-anchor="middle">old hardware</text>
+<text x="827" y="270" font-size="10" fill="#7f93a8" text-anchor="middle">modern Android</text>
+<clipPath id="mq"><rect x="20" y="284" width="860" height="26"/></clipPath>
+<rect x="20" y="284" width="860" height="26" rx="6" fill="#101a24"/>
+<g clip-path="url(#mq)"><text class="mq" x="20" y="302" font-size="12" fill="#7f93a8" textLength="1920" lengthAdjust="spacing" xml:space="preserve">EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   EL. PSY. BUILDROO.   //   </text></g>
+
+</svg>
