@@ -20,7 +20,7 @@ I work with AI through directing, testing, and iterating. This all gets squeezed
 
 I got tired of juggling separate bridges. Omni brings supported old mobile games together in one Android app. Supply the original game files, tap **Load Game**, and launch them from your library.
 
-The public games span **BREW, DoJa, J2ME, ExEn, Zeebo, and N-Gage (classic and 2.0)**: BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and a growing pile of others.
+The public games span **BREW, DoJa, J2ME, ExEn, Zeebo, and N-Gage (classic and 2.0)**: BioShock 3D, Metal Gear Solid Mobile, Dirge of Cerberus: Lost Episode, and a growing pile of others.**Introducing New Challenger** Omni's pile has expanded to include the entire Apple Bridge catalog as well 😅
 
 **[Download Omni](https://github.com/Wakkatobakka/Omni-Player/releases) · [Games, files & sources](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md) · [Setup & project details](https://github.com/Wakkatobakka/Omni-Player)**
 
